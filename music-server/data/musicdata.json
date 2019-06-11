@@ -1,0 +1,97 @@
+[{
+        "title": "我要你",
+        "author": "老狼",
+        "musicImgSrc": "http://up.mcyt.net/down/43422.mp3",
+        "src": "http://omratag7g.bkt.clouddn.com/%E6%88%91%E8%A6%81%E4%BD%A0.jpg",
+        "lrc": "lrc/woyaoni.lrc"
+    },
+    {
+        "title": "广东爱情故事",
+        "author": "广东雨神",
+        "musicImgSrc": "http://sc1.111ttt.cn/2018/1/03/13/396131203208.mp3",
+        "src": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=3283023278,2758205127&fm=58&bpow=1824&bpoh=1824",
+        "lrc": "lrc/guangdongaiqinggushi.lrc"
+    },
+    {
+        "title": "就是爱你",
+        "author": "陶喆",
+        "musicImgSrc": "http://up.mcyt.net/md5/53/MTAzMTM1_Qq4329912.mp3",
+        "src": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=1407964657,2382644691&fm=58",
+        "lrc": "lrc/jiushiaini.lrc"
+    },
+    {
+        "title": "最美的期待",
+        "author": "周笔畅",
+        "musicImgSrc": "http://sc1.111ttt.cn:8282/2018/1/03m/13/396131229550.m4a?tflag=1519095601&pin=6cd414115fdb9a950d827487b16b5f97#.mp3",
+        "src": "http://singerimg.kugou.com/uploadpic/softhead/400/20180718/20180718110356316.jpg",
+        "lrc": "lrc/zuimeideqidai.lrc"
+    },
+    {
+        "title": "追光者",
+        "author": "岑宁儿",
+        "musicImgSrc": "http://sc1.111ttt.cn/2017/1/11/11/304112002347.mp3",
+        "src": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2556611937,1195664541&fm=58&bpow=2000&bpoh=2000",
+        "lrc": "lrc/zhuiguangzhe.lrc"
+    },
+    {
+        "title": "刚好遇见你",
+        "author": "李玉刚",
+        "musicImgSrc": "http://up.mcyt.net/md5/53/OTk1MDE2NA_Qq4329912.mp3",
+        "src": "http://p4.music.126.net/lDyytkTaPYVTb1Vpide6AA==/18591642115187138.jpg",
+        "lrc": "lrc/ganghaoyujianni.lrc"
+    },
+    {
+        "title": "来自天堂的魔鬼",
+        "author": "邓紫棋",
+        "src": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003c616O2Zlswm.jpg?max_age=2592000",
+        "musicImgSrc": "http://isure.stream.qqmusic.qq.com/C400004dFFPd4JNv8q.m4a?guid=7876166531&vkey=E72EA5C5E4C782883BEEB5A0ADFC69235F39A099E8323E9BB389BEFE4E5C1BF87C103A4F1E747A066217CD52CFB9117979F3E45BA4123105&uin=7326&fromtag=66"
+    },
+    {
+        "title": "你的酒馆对我打了烊",
+        "author": "陈雪凝",
+        "src": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004NDHly42oXD2.jpg?max_age=2592000",
+        "musicImgSrc": "http://isure.stream.qqmusic.qq.com/C400003mAan70zUy5O.m4a?guid=7876166531&vkey=247C719794A6080DB77B6ACA1F32BD95DB59085D7D72E036A1ACB118EFA44F8C371C3D368056CE8A56231631733A08E67FF77B40CA003879&uin=7326&fromtag=3&r=5011835131402793"
+    },
+    {
+        "title": "我的名字",
+        "author": "焦迈奇",
+        "src": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004PydGx4duhNe.jpg?max_age=2592000",
+        "musicImgSrc": "http://isure.stream.qqmusic.qq.com/C400000SI4lS3DSW63.m4a?guid=7876166531&vkey=3C0CAA186EE4E1607535CADDC92E7BD7FBDBC8A98D5E2F6CD9CDA5584AD60FE54C03B1F0B1E7389663B9BD239ACA9E1A7DB674E7D6AE4D81&uin=7326&fromtag=66"
+    },
+    {
+        "title": "绿色",
+        "author": "陈雪凝",
+        "src": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000010UePb4dyfoi.jpg?max_age=2592000",
+        "musicImgSrc": "http://isure.stream.qqmusic.qq.com/C400001luHbo2nQT1Y.m4a?guid=7876166531&vkey=1F8A72E6155913096656E29514082A903EB74CFD9D014212F6C8859B0015C0701A6FC7AD9A4073B0235966501B3C090BCBB515B9284BD9CB&uin=7326&fromtag=66"
+    },
+    {
+        "title": "缘分一道桥",
+        "author": "王力宏/谭维维",
+        "src": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001z1OuX41cBAx.jpg?max_age=2592000",
+        "musicImgSrc": "http://isure.stream.qqmusic.qq.com/C400000QuRpw4KQoLI.m4a?guid=7876166531&vkey=8D20B6020117425256006D8C865BD56B777DD6931278B6703E53040F39579C26E6B6BB9D120C524213B817F9C62503DF1B597E1E0B26DEDD&uin=7326&fromtag=66"
+    },
+    {
+        "title": "心如止水",
+        "author": "Ice paper",
+        "src": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000021N8xr0xq1Fp.jpg?max_age=2592000",
+        "musicImgSrc": "http://isure.stream.qqmusic.qq.com/C400003ebMYY2PGmn6.m4a?guid=7876166531&vkey=5C3EF2F22FB8D7AB9AAF3E7BA3E0877F489F694BA659DD3C1ECFE530D1D173AF1AAC46628901E11FAFD43C2A30B69A447C0A6FC992854874&uin=7326&fromtag=66"
+    },
+    {
+        "title": "余情未了",
+        "author": "魏新雨",
+        "src": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004K3LHV3ht6pl.jpg?max_age=2592000",
+        "musicImgSrc": "http://isure.stream.qqmusic.qq.com/C400003USWw32Y4oGN.m4a?guid=7876166531&vkey=7C5EAB631121A115189BD957BC2ECA566BF5534D472D55BBAB116A99946609E434C215A87D660904C1D6E757107E745A893942309591BF15&uin=7326&fromtag=66"
+    },
+    {
+        "title": "像鱼",
+        "author": "王贰浪",
+        "src": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001Zrk6t0urxvG.jpg?max_age=2592000",
+        "musicImgSrc": "http://isure.stream.qqmusic.qq.com/C400000NHikR1jV7Zz.m4a?guid=7876166531&vkey=AB2E9D63D6AB13123DF404FF5AE42D637588AD6EFBB758D93FBB3D249F2013C9C5737D9EAADFFAF63D0517D769725D027E2E81D3B028892D&uin=7326&fromtag=66"
+    },
+    {
+        "title": "一曲相思",
+        "author": "半阳",
+        "src": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000ujFf61gJy8A.jpg?max_age=2592000",
+        "musicImgSrc": "http://isure.stream.qqmusic.qq.com/C400002u0fTY2HoJJp.m4a?guid=7876166531&vkey=374D71618B36FE5B231964D4B7F82F35E85B09AD470D0FB6B13A7A1F60A99F14FDEBFE2FC8AF816B107221FA680FACD57B587738BCCE90D7&uin=7326&fromtag=66"
+    }
+]
