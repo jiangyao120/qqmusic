@@ -5,7 +5,7 @@
 # 前端项目
 ```
 NPM install
-npm install --save vant vuetouch
+npm install --save vant vue-touch
 npm run dev
 ```
 # 后端项目
